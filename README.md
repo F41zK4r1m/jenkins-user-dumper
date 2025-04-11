@@ -43,6 +43,12 @@ python jenkins_users.py -d jenkins.example.com --debug
 | `--debug` | Show raw JSON response |
 | `-h/--help` | Show help message |
 
+## Ethical Use Cases 📜
+- **CTF Challenges**: Quick enumeration of Jenkins user accounts
+- **Penetration Tests**: Identifying potential attack vectors
+- **Security Audits**: Documenting exposed user profiles
+- **Red Team Exercises**: Mapping vulnerable services
+
 ## Contributing 🤝
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
