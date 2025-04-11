@@ -50,5 +50,8 @@ python jenkins_users.py -d jenkins.example.com --debug
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+**Legal Disclaimer**  
+> This tool is intended for **authorized security assessments** and **educational purposes** only. Always obtain proper authorization before testing any systems. Misuse of this tool for unauthorized access is strictly prohibited.
+
 ## License 📄
 Distributed under the MIT License. See `LICENSE` for more information.
